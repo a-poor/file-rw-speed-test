@@ -1,0 +1,72 @@
+[
+  {
+    "n-bytes": 1,
+    "write-mean-ns": 154885.26,
+    "write-std-ns": 32111.844186723374,
+    "read-mean-ns": 165101.32,
+    "read-std-ns": 19969.172298760914
+  },
+  {
+    "n-bytes": 10,
+    "write-mean-ns": 164423.01,
+    "write-std-ns": 57597.81256549506,
+    "read-mean-ns": 159056.51,
+    "read-std-ns": 31173.147096016794
+  },
+  {
+    "n-bytes": 100,
+    "write-mean-ns": 118780.15,
+    "write-std-ns": 25732.057786883277,
+    "read-mean-ns": 136902.32,
+    "read-std-ns": 15366.533342221339
+  },
+  {
+    "n-bytes": 1000,
+    "write-mean-ns": 125441.85,
+    "write-std-ns": 31595.01856127799,
+    "read-mean-ns": 132509.87,
+    "read-std-ns": 15639.21588101846
+  },
+  {
+    "n-bytes": 10000,
+    "write-mean-ns": 125657.44,
+    "write-std-ns": 18416.22170713635,
+    "read-mean-ns": 134951.32,
+    "read-std-ns": 13275.769275548591
+  },
+  {
+    "n-bytes": 100000,
+    "write-mean-ns": 180237.45,
+    "write-std-ns": 67356.52290571049,
+    "read-mean-ns": 218380.89,
+    "read-std-ns": 30591.100461047492
+  },
+  {
+    "n-bytes": 1000000,
+    "write-mean-ns": 572326.57,
+    "write-std-ns": 179227.2777571681,
+    "read-mean-ns": 753209.98,
+    "read-std-ns": 85536.53558041499
+  },
+  {
+    "n-bytes": 10000000,
+    "write-mean-ns": 5880404.15,
+    "write-std-ns": 1278507.7806959755,
+    "read-mean-ns": 3536492.36,
+    "read-std-ns": 437338.9160172582
+  },
+  {
+    "n-bytes": 100000000,
+    "write-mean-ns": 95273585.4,
+    "write-std-ns": 6835804.76865375,
+    "read-mean-ns": 28071872.62,
+    "read-std-ns": 1993945.3735400916
+  },
+  {
+    "n-bytes": 1000000000,
+    "write-mean-ns": 1033299075.42,
+    "write-std-ns": 69221368.76760763,
+    "read-mean-ns": 642965641.11,
+    "read-std-ns": 47627661.61547345
+  }
+]
